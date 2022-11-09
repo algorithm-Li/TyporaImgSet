@@ -1,0 +1,2 @@
+# typoraimgset
+Save Typora Image
